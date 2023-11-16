@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Unreal Tick Aggregator",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Sebastian Ploch",
+	"CreatedByURL": "https://github.com/sebastianploch",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TickAggregator",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
